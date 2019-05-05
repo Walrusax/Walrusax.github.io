@@ -1,0 +1,119 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    margin-top: 0;
+}
+
+#box-1 {
+    width: 285px;
+    height: 85px;
+    background-color: #ffb1d1;
+    position: fixed;
+    top: 180px;
+    left: 73px;
+}
+.title-1 h1 {
+	font-family: 'Muli', sans-serif;
+    color: #000000;
+	font-size: 48px;
+	font-weight: 700;
+    position: fixed;
+    top: 112px;
+    left: 57px;
+}
+.title-2 h1 {
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+	font-size: 48px;
+	font-weight: 700;
+    position: fixed;
+    top: 200px;
+    left: 57px;
+    margin: auto;
+    padding: 0;
+}
+
+
+nav ul li a{
+    text-decoration: none;
+    font-family: 'Muli', sans-serif;
+    position: relative;
+    top: 350px;
+    left: 15px;
+    color: #999999;
+}
+nav ul li {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.list-1{
+    position: fixed;
+    font-size: 24px;
+    color: #999999;
+}
+.list-2{
+    position: fixed;
+    padding-top: 180px;
+    font-size: 18px;
+    color: #ffb1d1;
+}
+
+
+#box-2{
+    width: 753.5px;
+    width: 80%;
+    height: 1005px;
+    position: fixed;
+    top: 45px;
+    left: 516.5px;
+    background-color: #ffb1d1;
+}
+
+aside{
+    width: 753.5px;
+    height: 1005px;
+    position: fixed;
+    top: 75px;
+    left: 486.5px;
+}
+
+.profile-pic {
+    opacity: 1;
+    width: 648.225px;
+    height: 864.3px;
+    background-image: url("../images/IMG_8932.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.about{
+    opacity: 0;
+    width: 648.225px;
+    height: 864.3px;
+    position: fixed;  
+    top: 75px;
+    left: 486.5px;
+    background-image: url("../images/1x/about_1.png");
+    background-size: cover;
+}
+.about:hover{
+    opacity: 0.75;
+}
+
+.email h3 {
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    position: fixed;
+    top: 875px;
+    left: 1550px;
+    transform: rotate(270deg);
+    transform-origin: left top 0;
+    float: left;
+}
+
+
+
+

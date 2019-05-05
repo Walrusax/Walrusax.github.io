@@ -1,0 +1,301 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+    margin-top: 0;
+}
+
+#box-1 {
+    width: 285px;
+    height: 85px;
+    background-color: #9de7d7;
+    position: fixed;
+    top: 180px;
+    left: 73px;
+}
+.title-1 h1 {
+	font-family: 'Muli', sans-serif;
+    color: #000000;
+	font-size: 48px;
+	font-weight: 700;
+    position: fixed;
+    top: 112px;
+    left: 57px;
+}
+.title-2 h1 {
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+	font-size: 48px;
+	font-weight: 700;
+    position: fixed;
+    top: 200px;
+    left: 57px;
+    margin: auto;
+    padding: 0;
+}
+
+
+nav ul li a{
+    text-decoration: none;
+    font-family: 'Muli', sans-serif;
+    position: relative;
+    top: 350px;
+    left: 15px;
+    color: #999999;
+}
+nav ul li {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.list-1{
+    position: fixed;
+    font-size: 24px;
+    color: #999999;
+}
+.list-2{
+    position: fixed;
+    padding-top: 180px;
+    font-size: 18px;
+    color: #ffb1d1;
+}
+
+
+.galleries{
+    position: absolute;
+    top: 75px;
+    left: 400px;
+}
+.descriptions{
+    font-family: 'Muli', sans-serif;
+}
+.quita-armonia{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/1_quieta armonia/000045.JPG");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.description-1 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 540px;
+    left: 960px;
+}
+.description-1 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 570px;
+    left: 960px;
+}
+.assenza{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/2_assenza/32A_01299.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.description-2 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 1105px;
+    left: 960px;
+}
+.description-2 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 1135px;
+    left: 960px;
+}
+
+.immerso{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/3_immerso/__1_00072.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px; 
+}
+
+.description-3 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 1670px;
+    left: 960px;
+}
+.description-3 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 1700px;
+    left: 960px;
+}
+
+.grave{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/4_grave/_21_00092.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.description-4 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 2235px;
+    left: 960px;
+}
+.description-4 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 2265px;
+    left: 960px;
+}
+
+.eterozigote{
+    width: 535px;
+    height: 535px;
+    background-image: url( "../images/series/5_eterozigote/_24_00095.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+    transform: rotate(90deg)
+}
+.description-5 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 2800px;
+    left: 960px;
+}
+.description-5 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 2830px;
+    left: 960px;
+}
+
+.frames{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/6_frames/_27_00098.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.description-6 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 3365px;
+    left: 960px;
+}
+.description-6 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 3395px;
+    left: 960px;
+}
+
+.presence{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/7_presence/_1A_00108.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.description-7 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 3930px;
+    left: 960px;
+}
+.description-7 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 3960px;
+    left: 960px;
+}
+
+.istanbul{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/8_istanbul/_8A_01275.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.description-8 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 4495px;
+    left: 960px;
+}
+.description-8 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 4525px;
+    left: 960px;
+}
+
+.poland{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/9_poland/B017989_N077_ID60342557_FF_P001.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.description-9 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 5060px;
+    left: 960px;
+}
+.description-9 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 5090px;
+    left: 960px;
+}
+.lapland{
+    width: 535px;
+    height: 535px;
+    background-image: url("../images/series/10_lapland/B017989_N226_ID60342556_FF_P001.jpg");
+    background-size: cover;
+    background-position: right;
+    margin-bottom: 30px;
+}
+.description-10 h3{
+    font-family: 'Muli', sans-serif;
+    color: #000000;
+    position: absolute;
+    top: 5625px;
+    left: 960px;
+}
+.description-10 h4{
+    font-family: 'Muli', sans-serif;
+    color: #999999;
+    position: absolute;
+    top: 5655px;
+    left: 960px;
+}

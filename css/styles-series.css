@@ -165,7 +165,7 @@ nav ul li {
 .eterozigote{
     width: 535px;
     height: 535px;
-    background-image: url( "../images/series/5_eterozigote/_24_00095.jpg");
+    background-image: url("../images/series/5_eterozigote/_24_00095.jpg");
     background-size: cover;
     background-position: center;
     margin-bottom: 30px;
@@ -280,7 +280,7 @@ nav ul li {
 .lapland{
     width: 535px;
     height: 535px;
-    background-image: url("../images/series/10_lapland/B017989_N226_ID60342556_FF_P001.jpg");
+    background-image: url( "../images/series/10_lapland/B017989_N226_ID60342556_FF_P001.jpg");
     background-size: cover;
     background-position: right;
     margin-bottom: 30px;
